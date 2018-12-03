@@ -1,3 +1,3 @@
 # HobbyLife
-Find Your Passion. </br><br>
-Find Your People.
+Find Your Passion. 
+<br>Find Your People.
