@@ -1,2 +1,3 @@
 # HobbyLife
-Dis da ish yo!
+Find Your Passion.
+Find Your People.
